@@ -11,9 +11,8 @@ Get-CsRgsInvalidAgents.ps1 [-Name] [-Remove]
 
 Without parameters, the script will check all Response Groups for invalid agents:
 
- -Name
+-Name
 Use this to specify a response group. For instance, check all invalid agents from Test Response Group
 
- 
 -Remove
 Use this switch to Remove invalid agents
